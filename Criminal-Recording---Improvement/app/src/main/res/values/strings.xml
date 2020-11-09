@@ -1,3 +1,15 @@
 <resources>
     <string name="app_name">Criminal Intent</string>
+
+    <string-array name="crimes_array">
+        <item>Larceny / Theft</item>
+        <item>Burglary</item>
+        <item>Motor Vehicle Theft</item>
+        <item>Aggravated Assault</item>
+        <item>Robbery</item>
+        <item>Arson</item>
+        <item>Gang Violence</item>
+        <item>Murder</item>
+        <item>NEW CRIME</item>
+    </string-array>
 </resources>
